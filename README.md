@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Sumea1
-- 👀 I’m interested in Java Programming
-- 🌱 I’m currently learning App Development
+- 👋 Hi, I’m Sumea
+- ⚡ A Junior Java Developer
+- 🔭 I’m currently working on Front End Projects
+- 🌱 I’m learning App Development
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me  : sumeaqa@gmail.com
 
