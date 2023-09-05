@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Front End Projects
 - 🌱 I’m learning App Development
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me  : sumeaqa@gmail.com
+
 
 <!---
 Sumea1/Sumea1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
