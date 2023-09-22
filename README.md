@@ -2,7 +2,7 @@
 - ⚡ A Junior Java Developer
 - 🔭 I’m currently working on Front End Projects
 - 🌱 I’m learning App Development
-- 💞️ I’m looking to collaborate on any project
+- 💞️ I’m looking forward to collaborating on any project
 
 
 <!---
