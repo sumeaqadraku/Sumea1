@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sumea
 - ⚡ A Junior Java Developer
-- 🔭 I’m currently working on Front End Projects
+- 🔭 I’m currently studying
 - 🌱 I’m learning App Development
 - 💞️ I’m looking forward to collaborating on any project
 
