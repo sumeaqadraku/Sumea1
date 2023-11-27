@@ -1,5 +1,5 @@
 # Hi, I am Sumea Qadraku
-- ⚡ A Junior Java Developer<br>- 🔭 I’m currently studying CS<br>- 🌱 I’m learning App Development<br>- 💞️ I’m looking forward to collaborating on any project
+- ⚡ A Python Developer and Coding Instructor at MakerMinds<br>- 🔭 I’m currently studying CS<br>- 🌱 I’m learning App Development<br>- 💞️ I’m looking forward to collaborating on any project
 
 
 # 💻 Tech Stack:
